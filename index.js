@@ -9,3 +9,4 @@ function multiply(){
   let multiply=num1*num2;
   console.log(multiply);
 }
+let random = Math.floor( Math.random() * 1000 ) + 1
